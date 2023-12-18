@@ -66,3 +66,4 @@
    getBattingData.py, getBowlingData.py, getPlayerIds.py are helper files which is used to get the data in "Full_bowling_data" and "Full_batting_data" from https://www.espncricinfo.com/ website.
 
 
+# 2023_Cricket_WorldCup_Predctions
